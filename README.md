@@ -7,7 +7,7 @@
 <br>
   <div align="center">
   <h2>Project Description</h2>
-  <p> This project focused on considering type, location of the tumor and grade of the tumor for brain tumor detection. A convolutional neural network model have been implemented on Magnetic Resonance Imaging. The four classifications are Meningioma, Glioma, No Tumor and Pituitary.</p>
+  <p> This project aimed at reducing academic dropout and failure in higher education by utilising machine learning techniques to identify students at risk at an early point of their academic career, allowing for the implementation of support strategies. The dataset comprises information available at the time of student enrolment, such as academic path, demographics, and socioeconomic characteristics. The project is presented as a three-category categorisation task (dropout, enrolled, and graduate) at the end of the course's regular time. </p>
   </div>
 <div align="center">
   <h2>Model Building</h2>
