@@ -4,7 +4,7 @@
   <h1>Predicting Academic Performance of a Student with Machine Learning</h1>
   
   </div>
-
+<br>
   <div align="center">
   <h2>Project Description</h2>
   <p> This project aimed at reducing academic dropout and failure in higher education by utilising machine learning techniques to identify students at risk at an early point of their academic career, allowing for the implementation of support strategies. The dataset comprises information available at the time of student enrolment, such as academic path, demographics, and socioeconomic characteristics. The project is presented as a three-category categorisation task (dropout, enrolled, and graduate) at the end of the course's regular time. </p>
@@ -13,7 +13,11 @@
   <div align="center">
   <h2>Features</h2>
   <img src="https://github.com/sumaiyachowdhurycse25/Dropout_Academic_Success/blob/main/Features.PNG">
-</div>
+<h3>Categories</h3>
+   <p>Dropout</p>
+  <p>Graduate</p>
+  <p>Enrolled</p>
+  </div>
 <br>
   
   
