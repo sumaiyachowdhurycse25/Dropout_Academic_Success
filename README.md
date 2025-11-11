@@ -11,14 +11,11 @@
   </div>
 <div align="center">
   <h2>Model Building</h2>
-  <img src="https://github.com/sumaiyachowdhurycse25/BrainTumorDetection/blob/master/Model%20Building.PNG">
+  <img src="https://github.com/sumaiyachowdhurycse25/Dropout_Academic_Success/blob/main/Model%20Building.PNG">
 </div>
 <div align="center">
   <h2>Skills Required</h2>
-  <p>TensorFlow</p>
-  <p>Keras</p>
-  <p>OpenCV</p>
-  <p>Scikit-learn</p>
+   <p>Scikit-learn</p>
   <p>Numpy</p>
   <p>Pandas</p>
   <p>Matplotlib</p>
